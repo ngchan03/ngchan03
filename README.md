@@ -11,6 +11,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EE7752,50:D5379B,100:23A6D5&height=180&section=header&text=Namgung%20Chan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p>
 
 ### 📫 연락처
 - Email: ngchan03@example.com
