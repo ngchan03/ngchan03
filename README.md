@@ -12,8 +12,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngchan03&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngchan03&show_icons=true)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ngchan03&show_icons=true&theme=tokyonight" width="48%"/>
