@@ -25,9 +25,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ngchan03&theme=tokyonight" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngchan03&layout=compact&theme=tokyonight" width="40%"/>
-</p>
+
 
 
 
