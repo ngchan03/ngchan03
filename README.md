@@ -8,7 +8,7 @@
 
 ### 📫 연락처
 - Email: ngchan03@example.com
-- Portfolio: [내 사이트 링크](https://example.com)
+- Portfolio: [내 사이트 링크](https://emotion-diary-beta-lac.vercel.app/)
 
 ---
 
