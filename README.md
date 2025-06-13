@@ -14,3 +14,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngchan03&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngchan03&show_icons=true)
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ngchan03&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![Tech Stack](https://img.shields.io/badge/React-blue?logo=React)
