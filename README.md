@@ -8,6 +8,9 @@
 - 🧠 관심사: 프론트엔드 UI/UX, 사이드프로젝트, Git 자동화
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EE7752,50:D5379B,100:23A6D5&height=180&section=header&text=Namgung%20Chan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 ### 📫 연락처
 - Email: ngchan03@example.com
