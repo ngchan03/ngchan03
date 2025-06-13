@@ -28,10 +28,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngchan03&layout=compact&theme=tokyonight" width="40%"/>
 </p>
-<p>
-  <img src="https://img.shields.io/badge/Email-ngchan03%40example.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Portfolio-MySite-0A66C2?style=flat&logo=vercel&logoColor=white"/>
-</p>
 
 
 
