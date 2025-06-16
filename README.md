@@ -1,11 +1,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F77209&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi%2C+I'm+Namgung+Chan!;Welcome+to+my+GitHub+Profile+💻" />
 </p>
-### 👋 안녕하세요! 개발자 남궁찬입니다 😎
+### 👋 안녕하세요! 개발자 남궁찬입니다 
 
-- 🔭 요즘 하고 있는 일: 중고 시세 조회 프로젝트 (React + Web Storage)
-- 🌱 공부 중인 기술: Java, React, Vite, WebAPI
-- 🧠 관심사: 프론트엔드 UI/UX, 사이드프로젝트, Git 자동화
+-  요즘 하고 있는 일: 중고 시세 조회 프로젝트 (React + Web Storage)
+-  공부 중인 기술: Java, React, Vite, WebAPI
+-  관심사: 프론트엔드 UI/UX, 사이드프로젝트, Git 자동화
 
 ---
 <p align="center">
