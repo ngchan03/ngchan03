@@ -4,8 +4,8 @@
 ###  반갑습니다 남궁찬입니다 
 
 -  요즘 하고 있는 일: 프로젝트 (React + Web Storage)
--  공부 중인 기술: Java, React, Vite, WebAPI
--  관심사: 프론트엔드 UI/UX, 사이드프로젝트, Git 자동화
+-  공부 중인 기술: Java, React, ...
+-  관심사: 프론트엔드 UI/UX, 사이드프로젝트
 
 ---
 <p align="center">
