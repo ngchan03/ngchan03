@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F77209&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi%2C+I'm+Namgung+Chan!;Welcome+to+my+GitHub+Profile+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F77209&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Welcome+to+my+GitHub+Profil+💻" />
 </p>
 ### 👋 안녕하세요! 개발자 남궁찬입니다 
 
